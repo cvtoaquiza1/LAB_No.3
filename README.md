@@ -113,6 +113,43 @@ VOLTAJE DEL  NODO 3:
 
 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
 
+4.1  Implemente  el circuito que se presenta en la figura 3.1.
+
+![image](https://user-images.githubusercontent.com/117781491/206617459-947e3dbd-59d1-4fd4-98bc-f465aa156f61.png)
+
+4.2  Mida  cada uno de los voltajes de nodo y anote los resultados en la tabla 3.1.
+
+4.3  Simule en el software Thinkercad, el circuito de la figura 3.1, obteniendo los valores de los voltajes de nodo. Anote los resultados en la tabla 3.1.
+
+VOLTAJE DEL NODO 1:
+
+![image](https://user-images.githubusercontent.com/117781491/206617729-a35e3008-2985-4359-abe9-da2bfaf2f906.png)
+
+VOLTAJE DEL NODO 2:
+
+![image](https://user-images.githubusercontent.com/117781491/206617818-dc2af893-034b-4732-b464-1bb845354ddb.png)
+
+VOLTAJE DEL NODO 3:
+
+![image](https://user-images.githubusercontent.com/117781491/206617854-07a049a3-ba4d-4d02-ae73-c4ac30d8f4dc.png)
+
+VOLTAJE DEL NODO 4:
+
+![image](https://user-images.githubusercontent.com/117781491/206617874-ae306dab-37d5-49a1-87c8-d79a3836c5f5.png)
+
+VOLTAJE DEL NODO 5:
+
+![image](https://user-images.githubusercontent.com/117781491/206617904-fed68277-6ae8-4bca-bda3-a45525a94970.png)
+
+
+4.4 Compare los valores de la tabla 3.1 y realice sus conclusiones.
+
+![image](https://user-images.githubusercontent.com/117781491/206618039-c3a2330c-1b3f-4781-8ff7-18de797a3193.png)
+
+4.5 CALCULO DEL ERROR:
+
+![image](https://user-images.githubusercontent.com/117781491/206618583-73c1c6f2-8a1e-412c-8fd2-da1755cb24b1.png)
+
 
 5. VIDEO
 
