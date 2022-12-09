@@ -16,12 +16,18 @@ Sangolquí, 09 de Diciembre del 2022
 
 OBJETIVO GENERAL:
 
+-  Coomprobar  experimentalmente  el analisis de nodos mediante el puesto en marcha del circuito del laboratorio 3 para el perfecto conocimiento del tema.
 
 OBJETIVOS ESPECIFICOS:
 
+- Armar el circuito de forma fisica y virtual.
+- Verificar si los voltajes obtenidos en cada nodo del circuito es igual o similar tanto de la forma analitica, fisica y simulada.
+-  Aplicar la ley de Ohm y la la L.C.K para realizar el analisis de nodos.
+-  Aplicar la teoria de nodos para simplificar las operaciones a realizar.
 
 2. MARCO TEÓRICO
 
+![image](https://user-images.githubusercontent.com/117781491/206720183-ef1ee358-7d6b-4aed-8e82-2962cc263c9e.png)
 
 
 3. EXPLICACION DEL PROCEDIMIENTO
@@ -117,6 +123,12 @@ VOLTAJE DEL  NODO 3:
 
 ![image](https://user-images.githubusercontent.com/117781491/206617459-947e3dbd-59d1-4fd4-98bc-f465aa156f61.png)
 
+CICRCUITO ARMADO FISICAMENTE:
+
+![image](https://user-images.githubusercontent.com/117781491/206720880-46ccf64b-fefc-4547-ac07-4eaccdc5267a.png)
+
+
+
 4.2  Mida  cada uno de los voltajes de nodo y anote los resultados en la tabla 3.1.
 
 4.3  Simule en el software Thinkercad, el circuito de la figura 3.1, obteniendo los valores de los voltajes de nodo. Anote los resultados en la tabla 3.1.
@@ -153,13 +165,30 @@ VOLTAJE DEL NODO 5:
 
 5. VIDEO
 
+Link del video:
 
+https://youtu.be/VyHA3etxlH4
 
 6. CONCLUSIONES
 
+Mediante el presente laboratorio se llegó a concluir lo siguiente:
+
+•	Para determinar el sentido por la cual circula corriente dentro de nuestro circuito es necesario ver la polaridad del mismo para saber las direcciones de las corrientes.
+
+•	El número de nodos determina el número de ecuaciones que tendrá nuestro circuito.
+
+•	El voltaje de referencia siempre va a tener un voltaje de cero al estar conectado a tierra.
+
+•	Mediante la ley de Ohm la remplazamos en la ley de corriente de Kirchhoff, ya que en el método de nodos las variables son los voltajes, para asi trabajar de mejor manera.
+
+•	Para verificar nuestro circuito debemos saber que por la ley e voltajes de Kirchhoff la suma de todas las caídas de voltajes es igual a cero.
 
 
 7. BIBLIOGRAFÍA
+
+Darwin, I. [@IngEDarwin]. (2019, junio 26). LEY DE KIRCHHOFF 
+
+(NODOS) / EJERCICIO 1. Youtube. https://www.youtube.com/watch?v=KiKMwEG-l3I
 
 
 
