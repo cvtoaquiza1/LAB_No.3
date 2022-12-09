@@ -16,7 +16,7 @@ Sangolquí, 09 de Diciembre del 2022
 
 OBJETIVO GENERAL:
 
--  Coomprobar  experimentalmente  el analisis de nodos mediante el puesto en marcha del circuito del laboratorio 3 para el perfecto conocimiento del tema.
+-  Comprobar experimentalmente el analisis de nodos mediante el puesto en marcha del circuito del laboratorio 3 para el perfecto conocimiento del tema.
 
 OBJETIVOS ESPECIFICOS:
 
